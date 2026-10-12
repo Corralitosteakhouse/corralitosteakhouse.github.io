@@ -1,0 +1,39 @@
+{
+  "common": {
+    "langLabel": "Idioma"
+  },
+  "progress": {
+    "label": "Paso {n} de {total}"
+  },
+  "welcome": {
+    "title": "¿Aceptas el reto Corralito?",
+    "subtitle": "Sigue el flan con la mirada… si puedes.",
+    "cta": "¡Acepto el reto!",
+    "wonToday": "Ya ganaste hoy.",
+    "seePrize": "Ver mi flan"
+  },
+  "game": {
+    "watch": "Mira bien dónde está el flan",
+    "start": "¡Revuelve!",
+    "follow": "Síguelo con la mirada…",
+    "choose": "¿Dónde quedó el flan?",
+    "miss": "¡Casi! Estaba aquí",
+    "retry": "Otra vez",
+    "attempt": "Intento {n}",
+    "found": "¡Lo encontraste!"
+  },
+  "prize": {
+    "eyebrow": "Reto cumplido",
+    "title": "¡Ganaste un flan gratis!",
+    "show": "Muéstrale esta pantalla a tu mesero",
+    "wonAt": "Ganado hoy a las {time}",
+    "live": "En vivo",
+    "rules": "1 flan por mesa · Válido solo hoy, durante tu visita",
+    "share": "Compártelo en Instagram y etiquétanos: {handle}"
+  },
+  "screen": {
+    "title": "¿Aceptas el reto Corralito?",
+    "subtitle": "Escanea… si te atreves",
+    "fullscreen": "Toca para pantalla completa"
+  }
+}

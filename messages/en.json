@@ -1,0 +1,39 @@
+{
+  "common": {
+    "langLabel": "Language"
+  },
+  "progress": {
+    "label": "Step {n} of {total}"
+  },
+  "welcome": {
+    "title": "Take the Corralito challenge?",
+    "subtitle": "Keep your eye on the flan… if you can.",
+    "cta": "I accept the challenge!",
+    "wonToday": "You already won today.",
+    "seePrize": "See my flan"
+  },
+  "game": {
+    "watch": "Watch where the flan is",
+    "start": "Shuffle!",
+    "follow": "Keep your eye on it…",
+    "choose": "Where's the flan?",
+    "miss": "So close! It was here",
+    "retry": "Try again",
+    "attempt": "Try {n}",
+    "found": "You found it!"
+  },
+  "prize": {
+    "eyebrow": "Challenge complete",
+    "title": "You won a free flan!",
+    "show": "Show this screen to your server",
+    "wonAt": "Won today at {time}",
+    "live": "Live",
+    "rules": "1 flan per table · Valid today only, during your visit",
+    "share": "Share it on Instagram and tag us: {handle}"
+  },
+  "screen": {
+    "title": "Take the Corralito challenge",
+    "subtitle": "Scan… if you dare",
+    "fullscreen": "Tap for full screen"
+  }
+}
